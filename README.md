@@ -1,4 +1,4 @@
-## Andrés Velasco
+# Andrés Velasco
 
 **Engineering Manager** en [Product Hackers](https://producthackers.com) · Toledo, España
 
@@ -30,4 +30,5 @@ eliges cuál prefieres y un sistema de rating Elo ordena el resto.
 ---
 
 *Todo lo de este perfil es tiempo personal, no trabajo de Product Hackers.*
+
 *Contacto profesional: [LinkedIn](https://www.linkedin.com/in/avelasco/) · Soporte de las apps: [info@avelasco.dev](mailto:info@avelasco.dev)*
