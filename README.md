@@ -15,6 +15,12 @@ eliges cuál prefieres y un sistema de rating Elo ordena el resto.
 
 [**App Store**](https://apps.apple.com/app/id6755431111) · [**rankyourgames.app**](https://www.rankyourgames.app)
 
+### 🎬 Rank Your Movies
+
+Crea tu ranking personal de películas.
+
+**Próximamente en iOS** · [**rankyourmovies.app**](https://www.rankyourmovies.app/)
+
 ### Con qué los construyo
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
