@@ -21,6 +21,12 @@ Crea tu ranking personal de películas.
 
 **Próximamente en iOS** · [**rankyourmovies.app**](https://www.rankyourmovies.app/)
 
+### 📺 Rank Your Shows
+
+Crea tu ranking personal de series: te enseña dos, eliges una y un sistema de rating Elo ordena la lista.
+
+[**App Store**](https://apps.apple.com/app/id6827330741) · [**rankyourshows.app**](https://www.rankyourshows.app)
+
 ### Con qué los construyo
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
