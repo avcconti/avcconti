@@ -27,6 +27,12 @@ Crea tu ranking personal de series: te enseña dos, eliges una y un sistema de r
 
 [**App Store**](https://apps.apple.com/app/id6827330741) · [**rankyourshows.app**](https://www.rankyourshows.app)
 
+### 🍳 cocínala
+
+Planifica la semana de comidas con los platos de tu propia casa y saca sola la lista de la compra. Le haces una foto al plato y lo reconoce.
+
+[**App Store**](https://apps.apple.com/app/id6805054463) · [**cocinala.app**](https://cocinala.app)
+
 ### Con qué los construyo
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
